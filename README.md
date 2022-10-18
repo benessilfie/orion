@@ -1,0 +1,4 @@
+# Orion
+
+Orion is a  GitHub GraphQL client runs in the terminal. It lets the user see the list of their repositories, issues, and pull requests. Orion has a graphical UI made using the curses library.
+
